@@ -7,8 +7,8 @@ github_url: https://github.com/mlab-modules/QFHBAL01
 homepage: false
 image: doc/src/img/dimensions.png
 images:
-- doc/src/img/dimensions.png
 - doc/src/img/QFHBAL01.png
+- doc/src/img/dimensions.png
 - doc/src/img/dimensions.svg
 issues: 0
 mark: 50

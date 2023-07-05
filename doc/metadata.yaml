@@ -12,5 +12,12 @@ images:
 - doc/src/img/dimensions.svg
 issues: 0
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
+- kicad
+- kicad-pcb
+- kicad-project
+- mlab-kicad
+- pcb
 title: QFHBAL01

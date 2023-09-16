@@ -12,6 +12,7 @@ images:
 - doc/src/img/dimensions.svg
 issues: 0
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module

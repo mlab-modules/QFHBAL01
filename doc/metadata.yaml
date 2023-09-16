@@ -5,7 +5,7 @@ github_branches:
 github_repo: QFHBAL01
 github_url: https://github.com/mlab-modules/QFHBAL01
 homepage: false
-image: doc/src/img/dimensions.png
+image_title: doc/src/img/dimensions.png
 images:
 - doc/src/img/QFHBAL01.png
 - doc/src/img/dimensions.png

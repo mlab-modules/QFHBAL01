@@ -2,6 +2,7 @@ description: Balun for QFH mix antennas
 github_branch: QFHBAL01A
 github_branches:
 - QFHBAL01A
+github_description: Balun for QFH mix antennas
 github_repo: QFHBAL01
 github_url: https://github.com/mlab-modules/QFHBAL01
 homepage: false
@@ -22,4 +23,4 @@ tags:
 - mlab-kicad
 - pcb
 title: QFHBAL01
-updated: '2023-09-16T22:02:40.847692+00:00'
+updated: '2023-09-17T11:35:20.994805+00:00'

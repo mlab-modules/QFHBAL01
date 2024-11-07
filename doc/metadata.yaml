@@ -8,11 +8,20 @@ github_url: https://github.com/mlab-modules/QFHBAL01
 homepage: false
 image_title: doc/src/img/dimensions.png
 images:
-- doc/src/img/QFHBAL01.png
 - doc/src/img/dimensions.png
+- doc/src/img/QFHBAL01.png
+- doc/gen/img/QFHBAL01-top.png
+- doc/gen/img/QFHBAL01-bottom.png
 - doc/src/img/dimensions.svg
+- doc/gen/QFHBAL01-schematic.svg
+- doc/gen/img/QFHBAL01-top.svg
+- doc/gen/img/QFHBAL01-bottom.svg
+- hw/cam_profi/assembly/QFHBAL01-assembly_page_02.svg
+- hw/cam_profi/assembly/QFHBAL01-assembly_page_01.svg
 issues: 0
 mark: 50
+mod_ibom: hw/cam_profi/QFHBAL01-ibom.html
+mod_scheme: doc/gen/QFHBAL01-schematic.pdf
 status: 2
 tags:
 - mlab
@@ -23,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: QFHBAL01
-updated: '2023-09-17T11:48:29.832464+00:00'
+updated: '2024-11-07T21:28:42.268702+00:00'

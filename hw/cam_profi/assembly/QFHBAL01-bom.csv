@@ -1,0 +1,3 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)",Conn_Coaxial,J1,Conn_Coaxial SMA or MCX,SMA_Amphenol_901-144_Vertical,1, ~
+2,,ETC1-1-13-riske-symbols,T1T2,ETC1-1-13,Transformer_MACOM_SM-22,2,https://www.minicircuits.com/pdfs/TC1-1-13MX+.pdf

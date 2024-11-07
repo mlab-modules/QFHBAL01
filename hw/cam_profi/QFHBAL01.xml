@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/QFHBAL01.kicad_sch</source>
-    <date>Wed Apr  6 13:14:08 2022</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <date>2024-11-07T21:28:05+0000</date>
+    <tool>Eeschema 8.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -27,63 +27,112 @@
     <comp ref="H1">
       <value>Pad</value>
       <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.2mm_M2_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f8dc398</tstamps>
     </comp>
     <comp ref="H2">
       <value>Pad</value>
       <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.2mm_M2_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f962209</tstamps>
     </comp>
     <comp ref="H5">
       <value>Pad</value>
       <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.2mm_M2_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f8dc703</tstamps>
     </comp>
     <comp ref="H6">
       <value>Pad</value>
       <footprint>MountingHole:MountingHole_2.2mm_M2_Pad</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_2.2mm_M2_Pad</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f96221d</tstamps>
     </comp>
     <comp ref="H9">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f959145</tstamps>
     </comp>
     <comp ref="H10">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f959499</tstamps>
     </comp>
     <comp ref="H11">
       <value>MountingHole</value>
       <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <fields>
+        <field name="Footprint">MountingHole:MountingHole_3.2mm_M3</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f959c62</tstamps>
     </comp>
@@ -91,9 +140,16 @@
       <value>Conn_Coaxial SMA or MCX</value>
       <footprint>Connector_Coaxial:SMA_Amphenol_901-144_Vertical</footprint>
       <datasheet> ~</datasheet>
+      <fields>
+        <field name="Footprint">Connector_Coaxial:SMA_Amphenol_901-144_Vertical</field>
+        <field name="Datasheet"> ~</field>
+        <field name="Description"/>
+      </fields>
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
+      <property name="ki_keywords" value="BNC SMA SMB SMC coaxial connector CINCH RCA"/>
+      <property name="ki_fp_filters" value="*BNC* *SMA* *SMB* *SMC* *Cinch*"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-00005f8ddcd9</tstamps>
     </comp>
@@ -101,6 +157,11 @@
       <value>ETC1-1-13</value>
       <footprint>Transformer_SMD:Transformer_MACOM_SM-22</footprint>
       <datasheet>https://www.minicircuits.com/pdfs/TC1-1-13MX+.pdf</datasheet>
+      <fields>
+        <field name="Footprint">Transformer_SMD:Transformer_MACOM_SM-22</field>
+        <field name="Datasheet">https://www.minicircuits.com/pdfs/TC1-1-13MX+.pdf</field>
+        <field name="Description"/>
+      </fields>
       <libsource lib="QFHBAL01-rescue" part="ETC1-1-13-riske-symbols" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
@@ -111,6 +172,11 @@
       <value>ETC1-1-13</value>
       <footprint>Transformer_SMD:Transformer_MACOM_SM-22</footprint>
       <datasheet>https://cdn.macom.com/datasheets/ETC1-1-13.pdf</datasheet>
+      <fields>
+        <field name="Footprint">Transformer_SMD:Transformer_MACOM_SM-22</field>
+        <field name="Datasheet">https://cdn.macom.com/datasheets/ETC1-1-13.pdf</field>
+        <field name="Description"/>
+      </fields>
       <libsource lib="QFHBAL01-rescue" part="ETC1-1-13-riske-symbols" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="QFHBAL01.kicad_sch"/>
@@ -132,7 +198,9 @@
       <fields>
         <field name="Reference">J</field>
         <field name="Value">Conn_Coaxial</field>
+        <field name="Footprint"/>
         <field name="Datasheet"> ~</field>
+        <field name="Description">coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)</field>
       </fields>
       <pins>
         <pin num="1" name="In" type="passive"/>
@@ -148,7 +216,9 @@
       <fields>
         <field name="Reference">H</field>
         <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
       </fields>
     </libpart>
     <libpart lib="Mechanical" part="MountingHole_Pad">
@@ -160,7 +230,9 @@
       <fields>
         <field name="Reference">H</field>
         <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
         <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
       </fields>
       <pins>
         <pin num="1" name="1" type="input"/>
@@ -170,6 +242,9 @@
       <fields>
         <field name="Reference">T</field>
         <field name="Value">ETC1-1-13-riske-symbols</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
       </fields>
       <pins>
         <pin num="1" name="AA" type="passive"/>
@@ -211,10 +286,10 @@
       <node ref="T1" pin="3" pinfunction="SA" pintype="passive"/>
       <node ref="T2" pin="3" pinfunction="SA" pintype="passive"/>
     </net>
-    <net code="5" name="unconnected-(T1-Pad4)">
+    <net code="5" name="unconnected-(T1-SC-Pad4)">
       <node ref="T1" pin="4" pinfunction="SC" pintype="passive+no_connect"/>
     </net>
-    <net code="6" name="unconnected-(T2-Pad4)">
+    <net code="6" name="unconnected-(T2-SC-Pad4)">
       <node ref="T2" pin="4" pinfunction="SC" pintype="passive+no_connect"/>
     </net>
   </nets>

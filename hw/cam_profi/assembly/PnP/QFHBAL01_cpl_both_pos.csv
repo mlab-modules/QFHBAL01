@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","Conn_Coaxial","SMA_Amphenol_901-144_Vertical",10.8000,0.1000,0.0000,top
+"T1","ETC1-1-13","Transformer_MACOM_SM-22",1.6000,0.1000,0.0000,top
+"T2","ETC1-1-13","Transformer_MACOM_SM-22",2.0000,0.1000,-90.0000,bottom

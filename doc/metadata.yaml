@@ -8,8 +8,8 @@ github_url: https://github.com/mlab-modules/QFHBAL01
 homepage: false
 image_title: doc/src/img/dimensions.png
 images:
-- doc/src/img/QFHBAL01.png
 - doc/src/img/dimensions.png
+- doc/src/img/QFHBAL01.png
 - doc/src/img/dimensions.svg
 issues: 0
 mark: 50
@@ -23,4 +23,4 @@ tags:
 - mlab-kicad
 - pcb
 title: QFHBAL01
-updated: '2023-09-17T11:48:29.832464+00:00'
+updated: '2024-11-07T21:26:39.911964+00:00'

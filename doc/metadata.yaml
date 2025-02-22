@@ -6,7 +6,7 @@ github_description: Balun for QFH mix antennas
 github_repo: QFHBAL01
 github_url: https://github.com/mlab-modules/QFHBAL01
 homepage: false
-image_title: doc/src/img/dimensions.png
+image_title: doc/gen/img/QFHBAL01-top.png
 images:
 - doc/src/img/dimensions.png
 - doc/src/img/QFHBAL01.png

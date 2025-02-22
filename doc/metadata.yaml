@@ -12,12 +12,12 @@ images:
 - doc/src/img/QFHBAL01.png
 - doc/gen/img/QFHBAL01-top.png
 - doc/gen/img/QFHBAL01-bottom.png
+- hw/cam_profi/assembly/QFHBAL01-assembly_page_02.svg
+- hw/cam_profi/assembly/QFHBAL01-assembly_page_01.svg
 - doc/src/img/dimensions.svg
 - doc/gen/QFHBAL01-schematic.svg
 - doc/gen/img/QFHBAL01-top.svg
 - doc/gen/img/QFHBAL01-bottom.svg
-- hw/cam_profi/assembly/QFHBAL01-assembly_page_02.svg
-- hw/cam_profi/assembly/QFHBAL01-assembly_page_01.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/QFHBAL01-ibom.html
@@ -32,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: QFHBAL01
-updated: '2024-11-13T23:18:27.747694+00:00'
+updated: '2025-02-22T20:52:52.366289+00:00'
